@@ -1,6 +1,10 @@
 {
   "name": "waterlock-facebook-auth",
+<<<<<<< 0dc13f9ac73fce7b4b14d0ae42c2c132721f5e84
+  "version": "v0.1.2-rc1",
+=======
   "version": "v0.1.2-rc2",
+>>>>>>> merge upstream
   "description": "facebook authentication for waterlock",
   "main": "index.js",
   "scripts": {
